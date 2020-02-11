@@ -5,3 +5,6 @@ gemspec
 
 
 gem 'jekyll-seo-tag'
+
+source "https://rubygems.org"
+gem 'github-pages'
